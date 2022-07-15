@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <script src="../js/vue.min.js"></script>
+    <div id="app">
+        {{keyword}}
+        <br>
+        <input type="text" :value="keyword">
+        <br>
+        <input type="text" v-model="keyword">
+    </div>
+    <script>
+        new Vue({
+            el:'#app',
+            data:{
+                keyword:'双向绑定'
+            }
+        })
+    </script>
+</body>
+</html>

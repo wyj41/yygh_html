@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <script src="../js/vue.min.js"></script>
+    <div id="app">
+        <button v-on:click="show()">事件绑定1</button>
+        <!--简写-->
+        <button @click="show()">事件绑定2</button>
+    </div>
+    <script>
+        new Vue({
+            el:'#app',
+            methods:{
+                show(){
+                    console.log("show ...")
+                }
+            }
+        })
+    </script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <script src="../js/vue.min.js"></script>
+    <div id="app">
+        <input type="checkbox" v-model="ok">
+        <br>
+        <div v-if="ok">选中了</div>
+        <div v-else>没选中</div>
+    </div>
+    <script>
+        new Vue({
+            el:'#app',
+            data:{
+                ok:false
+            }
+        })
+    </script>
+</body>
+</html>

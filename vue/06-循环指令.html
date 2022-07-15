@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <script src="../js/vue.min.js"></script>
+    <div id="app">
+        <div v-for="user in userList">
+            {{user.name}} -- {{user.age}}
+        </div>
+
+        <div v-for="(user,index) in userList">
+            {{index}} -- {{user.name}} -- {{user.age}}
+        </div>
+    </div>
+    <script>
+        new Vue({
+            el:'#app',
+            data:{
+                userList:[
+                    {"name":"lucy","age":20},
+                    {"name":"mary","age":30}
+                ]
+            }
+        })
+    </script>
+</body>
+</html>
