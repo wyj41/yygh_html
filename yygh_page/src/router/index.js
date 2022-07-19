@@ -65,7 +65,22 @@ export const constantRouterMap = [
       }
     ]
   },
-
+  {
+    path: '/cmn',
+    component: Layout,
+    redirect: '/cmn/list',
+    name: '数据管理',
+    alwaysShow: true,
+    meta: { title: '数据管理', icon: 'el-icon-s-help' },
+    children: [
+      {
+        path: 'list',
+        name: '数据字典',
+        component: () => import('@/views/dict/list'),
+        meta: { title: '数据字典', icon: 'table' }
+      }
+    ]
+  },
   {
     path: '/form',
     component: Layout,

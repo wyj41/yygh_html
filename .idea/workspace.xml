@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3073384-5c51-4c70-a74e-f6f2dcb01bd4" name="Changes" comment="" />
+    <list default="true" id="a3073384-5c51-4c70-a74e-f6f2dcb01bd4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/yygh_page/src/api/dict.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_page/src/views/dict/list.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yygh_page/config/dev.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_page/config/dev.env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yygh_page/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_page/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yygh_page/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_page/src/router/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -34,6 +44,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2Bn71211uVe13YZkdZeR8LKXGkf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,7 +55,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/java_works/yygh_html",
+    "last_opened_file_path": "D:/java_works/yygh_parent",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -55,11 +66,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java_works\yygh_html\yygh_page\src\api" />
       <recent name="D:\java_works\yygh_html\vue-admin-template-test\src\api" />
       <recent name="D:\java_works\yygh_html\vue-admin-template-test\src\views" />
       <recent name="D:\java_works\yygh_html\yygh_page\src\views" />
       <recent name="D:\java_works\yygh_html" />
-      <recent name="D:\java_works\yygh_html\vue" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\java_works\yygh_html\js" />
@@ -186,11 +197,24 @@
       <workItem from="1657606819529" duration="7450000" />
       <workItem from="1657700319265" duration="8595000" />
       <workItem from="1657778147872" duration="17921000" />
-      <workItem from="1657884569309" duration="9443000" />
+      <workItem from="1657884569309" duration="10043000" />
+      <workItem from="1658043676665" duration="3272000" />
+      <workItem from="1658126802418" duration="7289000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
