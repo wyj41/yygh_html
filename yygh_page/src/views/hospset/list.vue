@@ -36,7 +36,7 @@
         </template>
       </el-table-column>
 
-      <el-table-column label="操作" width="280" align="center">
+      <el-table-column label="操作" width="350" align="center">
         <template slot-scope="scope">
           <el-button type="danger" size="mini"
                      icon="el-icon-delete" @click="removeDataById(scope.row.id)">删除</el-button>

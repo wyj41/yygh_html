@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3073384-5c51-4c70-a74e-f6f2dcb01bd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/yygh_page/src/api/dict.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yygh_page/src/views/dict/list.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_page/src/api/hosp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_page/src/styles/show.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_page/src/views/hosp/list.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_page/src/views/hosp/schedule.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_page/src/views/hosp/show.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yygh_page/config/dev.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_page/config/dev.env.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yygh_page/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_page/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yygh_page/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_page/src/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yygh_page/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_page/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yygh_page/src/views/hospset/list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_page/src/views/hospset/list.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +59,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/java_works/yygh_parent",
+    "last_opened_file_path": "D:/java_works/yygh_html",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -200,6 +204,13 @@
       <workItem from="1657884569309" duration="10043000" />
       <workItem from="1658043676665" duration="3272000" />
       <workItem from="1658126802418" duration="7289000" />
+      <workItem from="1658236929572" duration="1350000" />
+      <workItem from="1658318229976" duration="702000" />
+      <workItem from="1658387296497" duration="2287000" />
+      <workItem from="1658473505286" duration="5764000" />
+      <workItem from="1658559930312" duration="1568000" />
+      <workItem from="1658645519162" duration="11179000" />
+      <workItem from="1658749126361" duration="7268000" />
     </task>
     <servers />
   </component>
