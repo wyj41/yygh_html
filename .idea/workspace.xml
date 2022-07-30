@@ -2,16 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3073384-5c51-4c70-a74e-f6f2dcb01bd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/yygh_page/src/api/hosp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yygh_page/src/styles/show.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yygh_page/src/views/hosp/list.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yygh_page/src/views/hosp/schedule.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yygh_page/src/views/hosp/show.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/api/dict.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/api/hosp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/assets/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/assets/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/assets/css/chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/assets/css/hospital.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/assets/css/hospital_personal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/assets/css/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/assets/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/assets/css/personal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/assets/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/assets/images/web-banner1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/components/AppLogo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/components/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/layouts/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/layouts/default.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/layouts/myfooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/layouts/myheader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/middleware/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/nuxt.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/pages/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/pages/hosp/_hoscode.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/pages/hosp/detail/_hoscode.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/pages/hosp/notice/_hoscode.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/pages/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/plugins/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/plugins/myPlugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/static/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/store/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/utils/request.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yygh_page/config/dev.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_page/config/dev.env.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yygh_page/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_page/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yygh_page/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_page/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yygh_page/src/views/hospset/list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_page/src/views/hospset/list.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,24 +89,26 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/java_works/yygh_html",
+    "last_opened_file_path": "D:/java_works/yygh_parent",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+    "vue.rearranger.settings.migration": "true",
+    "vuejs.nuxt.types-notification-shown": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java_works\yygh_html\yygh_site\assets" />
       <recent name="D:\java_works\yygh_html\yygh_page\src\api" />
       <recent name="D:\java_works\yygh_html\vue-admin-template-test\src\api" />
       <recent name="D:\java_works\yygh_html\vue-admin-template-test\src\views" />
       <recent name="D:\java_works\yygh_html\yygh_page\src\views" />
-      <recent name="D:\java_works\yygh_html" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java_works\yygh_html\yygh_site\plugins" />
       <recent name="D:\java_works\yygh_html\js" />
       <recent name="D:\java_works\yygh_html\es6" />
     </key>
@@ -210,7 +242,8 @@
       <workItem from="1658473505286" duration="5764000" />
       <workItem from="1658559930312" duration="1568000" />
       <workItem from="1658645519162" duration="11179000" />
-      <workItem from="1658749126361" duration="7268000" />
+      <workItem from="1658749126361" duration="7759000" />
+      <workItem from="1659177190559" duration="13832000" />
     </task>
     <servers />
   </component>
