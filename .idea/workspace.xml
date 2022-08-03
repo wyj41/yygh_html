@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3073384-5c51-4c70-a74e-f6f2dcb01bd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/yygh_site/api/msm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yygh_site/api/userInfo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yygh_site/api/weixin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yygh_site/pages/weixin/callback.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_page/src/api/userInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_page/src/views/user/userInfo/authList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_page/src/views/user/userInfo/list.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_page/src/views/user/userInfo/show.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/api/patient.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/pages/patient/add.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/pages/patient/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/pages/patient/show.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/pages/user/index.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yygh_site/layouts/myheader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_site/layouts/myheader.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yygh_site/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_site/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yygh_site/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_site/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yygh_page/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_page/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yygh_site/api/userInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_site/api/userInfo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yygh_site/pages/hosp/_hoscode.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_site/pages/hosp/_hoscode.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yygh_site/utils/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_site/utils/request.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +62,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/java_works/yygh_html/yygh_site/api",
+    "last_opened_file_path": "D:/java_works/yygh_html/yygh_page/src/api",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -71,9 +74,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java_works\yygh_html\yygh_page\src\api" />
       <recent name="D:\java_works\yygh_html\yygh_site\api" />
       <recent name="D:\java_works\yygh_html\yygh_site\assets" />
-      <recent name="D:\java_works\yygh_html\yygh_page\src\api" />
       <recent name="D:\java_works\yygh_html\vue-admin-template-test\src\api" />
       <recent name="D:\java_works\yygh_html\vue-admin-template-test\src\views" />
     </key>
@@ -214,7 +217,8 @@
       <workItem from="1658645519162" duration="11179000" />
       <workItem from="1658749126361" duration="7759000" />
       <workItem from="1659177190559" duration="14312000" />
-      <workItem from="1659425357036" duration="9997000" />
+      <workItem from="1659425357036" duration="10487000" />
+      <workItem from="1659524162692" duration="12957000" />
     </task>
     <servers />
   </component>
