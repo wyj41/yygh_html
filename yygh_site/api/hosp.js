@@ -30,5 +30,26 @@ export default {
       url:`${api_name}/department/${hoscode}`,
       method:'get'
     })
+  },
+  //获取可预约信息（分页）
+  getBookingScheduleRule(page, limit, hoscode, depcode) {
+    return request({
+      url: `${api_name}/auth/getBookingScheduleRule/${page}/${limit}/${hoscode}/${depcode}`,
+      method: 'get'
+    })
+  },
+  //获取排班信息
+  findScheduleList(hoscode, depcode, workDate) {
+    return request({
+      url: `${api_name}/auth/findScheduleList/${hoscode}/${depcode}/${workDate}`,
+      method: 'get'
+    })
+  },
+  //根据排班id获取排班信息
+  getScheduleById(id) {
+    return request({
+      url: `${api_name}/getSchedule/${id}`,
+      method: 'get'
+    })
   }
 }

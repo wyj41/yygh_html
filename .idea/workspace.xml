@@ -2,19 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3073384-5c51-4c70-a74e-f6f2dcb01bd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/yygh_page/src/api/userInfo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yygh_page/src/views/user/userInfo/authList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yygh_page/src/views/user/userInfo/list.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yygh_page/src/views/user/userInfo/show.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yygh_site/api/patient.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yygh_site/pages/patient/add.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yygh_site/pages/patient/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yygh_site/pages/patient/show.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yygh_site/pages/user/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echarts_deome/折线图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echarts_deome/柱状图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/echarts.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_page/src/api/sta.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_page/src/views/statistics/order/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/api/orderInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/pages/hosp/booking.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/pages/hosp/schedule.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/pages/order/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yygh_site/pages/order/show.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yygh_page/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_page/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yygh_page/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_page/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yygh_site/api/userInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_site/api/userInfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yygh_site/api/hosp.js" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_site/api/hosp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yygh_site/api/weixin.js" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_site/api/weixin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yygh_site/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_site/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yygh_site/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_site/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yygh_site/pages/hosp/_hoscode.vue" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_site/pages/hosp/_hoscode.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yygh_site/plugins/myPlugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/yygh_site/plugins/myPlugin.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +68,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/java_works/yygh_html/yygh_page/src/api",
+    "last_opened_file_path": "D:/java_works/yygh_parent",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -74,15 +80,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java_works\yygh_html\echarts_deome" />
       <recent name="D:\java_works\yygh_html\yygh_page\src\api" />
       <recent name="D:\java_works\yygh_html\yygh_site\api" />
       <recent name="D:\java_works\yygh_html\yygh_site\assets" />
       <recent name="D:\java_works\yygh_html\vue-admin-template-test\src\api" />
-      <recent name="D:\java_works\yygh_html\vue-admin-template-test\src\views" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\java_works\yygh_html\yygh_site\plugins" />
       <recent name="D:\java_works\yygh_html\js" />
+      <recent name="D:\java_works\yygh_html\yygh_site\plugins" />
       <recent name="D:\java_works\yygh_html\es6" />
     </key>
   </component>
@@ -218,7 +224,10 @@
       <workItem from="1658749126361" duration="7759000" />
       <workItem from="1659177190559" duration="14312000" />
       <workItem from="1659425357036" duration="10487000" />
-      <workItem from="1659524162692" duration="12957000" />
+      <workItem from="1659524162692" duration="13727000" />
+      <workItem from="1659599204753" duration="6627000" />
+      <workItem from="1659760792059" duration="3666000" />
+      <workItem from="1659867342918" duration="16307000" />
     </task>
     <servers />
   </component>
